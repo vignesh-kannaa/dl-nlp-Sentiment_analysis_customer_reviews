@@ -1,1 +1,1 @@
-# dl-nlp-Sentiment_analysis_customer_reviews
+Technical research to enhance user experience with browser extension that analyzes product or location reviews, delivering comprehensive feedback insights. Empower informed decisions through sentiment analysis.
